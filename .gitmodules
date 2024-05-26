@@ -1,0 +1,12 @@
+[submodule "comment-book"]
+	path = comment-book
+	url = https://github.com/toy-project-kyungsle/comment-book.git
+[submodule "clone-twitter"]
+	path = clone-twitter
+	url = https://github.com/toy-project-kyungsle/clone-twitter.git
+[submodule "q-board-client"]
+	path = q-board-client
+	url = https://github.com/toy-project-kyungsle/q-board-client.git
+[submodule "q-board-server"]
+	path = q-board-server
+	url = https://github.com/toy-project-kyungsle/q-board-server.git
