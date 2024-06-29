@@ -10,3 +10,6 @@
 [submodule "q-board-server"]
 	path = q-board-server
 	url = https://github.com/toy-project-kyungsle/q-board-server.git
+[submodule "React-Study"]
+	path = React-Study
+	url = https://github.com/toy-project-kyungsle/React-Study.git
